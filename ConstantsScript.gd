@@ -9,7 +9,6 @@ const DECLARETYPE: String = "Hello!"
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	
 	# Will cause an error if you try to overwrite initial data
 	# NEVERCHANGES = 0
 	
